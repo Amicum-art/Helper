@@ -2,7 +2,6 @@
 #include "Helper.h"
 
 
-
 int main()
 {
 	FindOddNumbers(41, true);
